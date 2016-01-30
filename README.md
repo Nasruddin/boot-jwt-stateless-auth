@@ -1,4 +1,4 @@
-# boot-jwt-stateless-auth
+# SpringBoot JWT Stateless Auth
 This is an example of Stateless Auth of Spring Boot Application using JWT
 
 ## Installation
